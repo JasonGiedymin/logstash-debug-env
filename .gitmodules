@@ -1,0 +1,9 @@
+[submodule "jsonrehasher"]
+	path = jsonrehasher
+	url = git@github.com:JasonGiedymin/jsonrehasher.git
+[submodule "logstash-filter-jsonrehasher"]
+	path = logstash-filter-jsonrehasher
+	url = git@github.com:JasonGiedymin/logstash-filter-jsonrehasher.git
+[submodule "logstash-2.2.4"]
+	path = logstash-2.2.4
+	url = git@github.com:elastic/logstash.git
